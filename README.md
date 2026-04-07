@@ -42,9 +42,12 @@ Add blocks to expand your project
 * Design and analysis equations
 * DVM Examples: Basic and Advanced
 
+## KiCAD Files
+The schematic and PCB were created with KiCad, a free and open-source software suite that provides a complete EDA toolset including schematic capture, PCB layout, 3D visualization. https://www.kicad.org/
+
 ## Open-Source Project
 The DVM Discovery is Open Source - anyone can inspect, make, modify and distribute the project.
-Download PDFs and KiCAD files (schematic, PCB, etc.).
+Download PDFs and KiCAD PCB files (schematic, PCB, etc.).
 
 ## Excel Op Amp Design Calculator
 An Excel Toolkit of Calculations created for hands-on experimenting. Apply, modify or customize as needed!
