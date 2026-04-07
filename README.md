@@ -24,6 +24,7 @@ Start with the basic circuit blocks
 * Low-Pass Filter
 * Push-Button
 ![Block diagram](http://www.ecircuitcenter.com/DVM1/discovery/dvm-discovery-block1.png)
+
 Add blocks to expand your project
 * Amplifier (additional range)
 * Negative Rail (bipolar input)
